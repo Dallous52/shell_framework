@@ -5,13 +5,13 @@ It's for hand training shell framework
 
 *************************  Linux运行  *****************************
 
-git clone https://github.com/Dallous52/shell_framework.git
+      git clone https://github.com/Dallous52/shell_framework.git
 
-cd shell_framework/
+      cd shell_framework/
 
-make
+      make
 
-./test
+      ./test
 
 *******************************************************************
 
@@ -23,7 +23,7 @@ make
   任选一个文件夹打开 git bash here [ 需下载 git:> https://git-scm.com/]
 
    命令行中输入：
-
+   
       git clone https://github.com/Dallous52/shell_framework.git
 
       cd shell_framework/
@@ -46,13 +46,13 @@ This program is cross-platform
 
 *************************Linux operation*****************************
 
-git clone  https://github.com/Dallous52/shell_framework.git
+      git clone  https://github.com/Dallous52/shell_framework.git
 
-cd shell_ framework/
+      cd shell_ framework/
 
-make
+      make
 
-./test
+      ./test
 
 *******************************************************************
 
@@ -63,15 +63,15 @@ make
 
 Select any folder to open git bash here [to download git:> https://git-scm.com/ ]
 
-Enter at the command line:
+      Enter at the command line:
 
-git clone  https://github.com/Dallous52/shell_framework.git
+      git clone  https://github.com/Dallous52/shell_framework.git
 
-cd shell_ framework/
+      cd shell_ framework/
 
-make
+      make
 
-Run test.exe after compiling the link successfully
+      Run test.exe after compiling the link successfully
 
 ----------------------Use vacuum studio 2022:-----------------------
 
