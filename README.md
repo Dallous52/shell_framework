@@ -75,9 +75,9 @@ Select any folder to open git bash here [to download git:> https://git-scm.com/ 
 
 ----------------------Use vacuum studio 2022:-----------------------
 
-Create a Windows console application with vacuum studio 2022
+      Create a Windows console application with vacuum studio 2022
 
-Download the file and import it into vacuum studio 2022 (pay attention to distinguishing header file/source file)
+      Download the file and import it into vacuum studio 2022 (pay attention to distinguishing header file/source file)
 
-Press f5 to run
+      Press f5 to run
 *******************************************************************
